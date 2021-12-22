@@ -24,7 +24,10 @@
 <a href="https://www.facebook.com/ekramullah70/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.facebook.com/ekramullah70/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.facebook.com/ekramullah70/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
+<br>
+<br>
+<br>
+<a href="https://app.daily.dev/ekram70"><img src="https://api.daily.dev/devcards/6ed3ba5c4abb4d42a32d8fd226bf9223.png?r=yn5" width="400" alt="Ekram Ullah Dewan's Dev Card"/></a>
 <br>
 <br>
 <br>
