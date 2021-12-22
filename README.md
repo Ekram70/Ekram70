@@ -28,8 +28,4 @@
 <br>
 <br>
 <a href="https://app.daily.dev/ekram70"><img src="https://api.daily.dev/devcards/6ed3ba5c4abb4d42a32d8fd226bf9223.png?r=yn5" width="400" alt="Ekram Ullah Dewan's Dev Card"/></a>
-<br>
-<br>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekram70&show_icons=true&locale=en" alt="ekram70" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekram70&show_icons=true&locale=en" alt="ekram70" />
