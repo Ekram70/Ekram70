@@ -25,7 +25,3 @@
 <a href="https://www.facebook.com/ekramullah70/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.facebook.com/ekramullah70/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <br>
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekram70&show_icons=true&locale=en" alt="ekram70" />
-
