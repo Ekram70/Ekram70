@@ -8,17 +8,11 @@ Welcome to my GitHub profile! I'm passionate about web development and enjoy sol
 - Backend: Node.js, Express, MongoDB
 - Other: Git, RESTful APIs
 
-## LeetCode Profile
+## Profiles
 
-👉 [LeetCode Profile](https://leetcode.com/Ekram70/)
+👉 Leetcode: [LeetCode](https://leetcode.com/Ekram70/)
+👉 Codewars: [CodeWars](https://www.codewars.com/users/Ekram70)
 
-## CodeWars Profile
-
-👉 [CodeWars Profile](https://www.codewars.com/users/Ekram70)
-
-## GitHub Stats
-
-[![Ekram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ekram70&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/Ekram70)
 
 ## Get in Touch
 
