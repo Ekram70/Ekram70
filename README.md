@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about web development and enjoy sol
 
 ## Skills
 
-- Frontend: React, Redux, HTML, CSS, JavaScript
+- Frontend: Next.js, React, Redux, HTML, CSS, JavaScript
 - Backend: Node.js, Express, MongoDB
 - Other: Git, RESTful APIs
 
