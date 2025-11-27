@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about web development and enjoy sol
 
 ## Work Experience
 
-Full stack Developer at [Themexpert](https://www.themexpert.com/).
+Jr. Full Stack Developer at [Themexpert](https://www.themexpert.com/).
 Currently working on [Thrivedesk](https://www.thrivedesk.com/) app.
 
 ## Skills
