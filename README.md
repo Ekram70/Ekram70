@@ -1,36 +1,41 @@
-# Hi there, I'm Ekram - MERN Stack Developer 👋
+# Hi there, I'm Ekram 👋
 
-Welcome to my GitHub profile! I'm passionate about web development and enjoy solving coding challenges. Feel free to explore my repositories and check out my LeetCode and CodeWars profiles.
+Full Stack Developer working on [ThriveDesk](https://www.thrivedesk.com/) at [ThemeXpert](https://www.themexpert.com/) — a SaaS customer support platform.
 
-## Work Experience
+I work mostly in Angular (Signals, RxJS), React/Next.js, and Node, with a focus on clean architecture, reusable components, and test-driven development.
 
-Jr. Full Stack Developer at [Themexpert](https://www.themexpert.com/).
-Currently working on [Thrivedesk](https://www.thrivedesk.com/) app.
+🌐 [Portfolio](https://ekram.is-a.dev/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ekramullah/) &nbsp;·&nbsp; 📧 [ekramullah70@gmail.com](mailto:ekramullah70@gmail.com)
 
 ## Skills
 
-- Frontend: Next.js, React, Angular, Redux, Typescript, Tailwind
-- Backend: Node.js, Express, MongoDB
-- Testing: Cypress, Jest
-- Tools: ShadCn, Mantine, Material Ui, Ant Design
-- Design: Figma, Photoshop, Illustrator
-- Other: Firebase, Git, RESTful APIs, Puppeteer
+- **Languages:** JavaScript, TypeScript, PHP, Python, Java
+- **Frontend:** React, Next.js, Angular (Signals, RxJS), Vue.js, Svelte, HTML5, CSS3, Tailwind CSS, Sass, PrimeNG, Mantine, shadcn/ui, Hashbrown, Redux, TanStack Query, Tiptap
+- **Backend:** Node.js, Express.js, NestJS, Laravel, REST APIs, WebSockets, MongoDB, MySQL
+- **Testing:** Playwright, Vitest, Cypress, Jest
+- **Tools:** Git, GitHub, GitHub Actions, Docker, Linux, Sentry, Biome, ESLint/Prettier, Vite, Webpack
+
+## Open Source
+
+- [ZardUI](https://zardui.com/) — [#200](https://github.com/zard-ui/zardui/pull/200), [#224](https://github.com/zard-ui/zardui/pull/224)
 
 ## Problem solving
 
-👉 Leetcode: [LeetCode](https://leetcode.com/Ekram70/)
+👉 Leetcode: [LeetCode](https://leetcode.com/u/ekram70/)
 <br />
 👉 Codewars: [CodeWars](https://www.codewars.com/users/Ekram70)
 
-## Courses:
+## Courses
+
 - Think in a redux way (Learn with Sumit) [link](https://learnwithsumit.com/certificates/verify/LWSCTXN-10IXRH7R)
-- Reactive Accelarator (Learn with Sumit)
+- Reactive Accelerator (Learn with Sumit)
 
 ## 📋 Projects
+
 <table>
 <thead>
 <tr>
-<th>Description</th>
+<th>Project</th>
+<th>Tech</th>
 <th>Repository</th>
 <th>Website</th>
 </tr>
@@ -38,49 +43,56 @@ Currently working on [Thrivedesk](https://www.thrivedesk.com/) app.
 <tbody>
 
 <tr>
-<td>Global Travels</td>
-<td><a>Private repository</a></td>
-<td><a href="https://globaltravels.vercel.app/" rel="nofollow">https://globaltravels.vercel.app/</a></td>
+<td>Global Travels<br /><sub>Flight booking site like ShareTrip/Gozayaan</sub></td>
+<td>Next.js, shadcn/ui, Tailwind, Context API</td>
+<td>Private repository</td>
+<td><a href="https://globaltravels.vercel.app/" rel="nofollow">Live</a></td>
 </tr>
 
 <tr>
-<td>Shoppers (Single vendor Ecommerce)</td>
+<td>Shoppers<br /><sub>Single vendor ecommerce</sub></td>
+<td>Express, React, Mongoose, Mantine, Redux, Axios, JWT</td>
 <td>
-  <a target="_" href="https://github.com/Ekram70/single_vendor_ecommerce">Frontend</a> 
+  <a target="_" href="https://github.com/Ekram70/single_vendor_ecommerce">Frontend</a>
   <br />
   <a target="_" href="https://github.com/Ekram70/single_vendor_backend">Backend</a>
 </td>
-<td><a href="https://single-vendor-ecommerce.vercel.app" rel="nofollow">https://single-vendor-ecommerce.vercel.app</a></td>
+<td><a href="https://single-vendor-ecommerce.vercel.app" rel="nofollow">Live</a></td>
 </tr>
 
 <tr>
-<td>Class Room Writers</td>
-<td><a href="https://github.com/RizwanSuvo99/verse-voice">Repository</a></td>
-<td><a href="https://classroomwriters.com/" rel="nofollow">https://classroomwriters.com/</a></td>
+<td>Classroom Writers</td>
+<td>Next.js, Mantine, TanStack Query, Framer Motion, Tailwind</td>
+<td><a href="https://github.com/RizwanSuvo99/verse-voice">Frontend</a></td>
+<td><a href="https://classroomwriters.com/" rel="nofollow">Live</a></td>
 </tr>
 
 <tr>
 <td>Custom Block Editor</td>
-<td><a href="https://github.com/Ekram70/custom_block_editor">Repository</a></td>
-<td><a href="https://custom-block-editor.vercel.app" rel="nofollow">https://custom-block-editor.vercel.app</a></td>
+<td>React, Mantine, Axios, Tailwind</td>
+<td><a href="https://github.com/Ekram70/custom_block_editor">Frontend</a></td>
+<td><a href="https://custom-block-editor.vercel.app" rel="nofollow">Live</a></td>
 </tr>
 
 <tr>
 <td>Flyplan</td>
+<td>HTML, SCSS, CSS, JavaScript</td>
 <td><a href="https://github.com/Ekram70/flyplan">Repository</a></td>
-<td><a href="https://ekram70.github.io/flyplan/" rel="nofollow">https://ekram70.github.io/flyplan/</a></td>
+<td><a href="https://ekram70.github.io/flyplan/" rel="nofollow">Live</a></td>
 </tr>
 
 <tr>
 <td>Storypath</td>
+<td>JavaScript, CSS</td>
 <td><a href="https://github.com/Ekram70/storypath">Repository</a></td>
 <td>-</td>
 </tr>
 
 <tr>
 <td>Typing Speed Test</td>
+<td>HTML, CSS, JavaScript</td>
 <td><a href="https://github.com/Ekram70/typing-speed">Repository</a></td>
-<td><a href="https://typing-speed-sigma-eight.vercel.app" rel="nofollow">https://typing-speed-sigma-eight.vercel.app</a></td>
+<td><a href="https://typing-speed-sigma-eight.vercel.app" rel="nofollow">Live</a></td>
 </tr>
 
 </tbody>
@@ -89,7 +101,7 @@ Currently working on [Thrivedesk](https://www.thrivedesk.com/) app.
 ## Get in Touch
 
 - 📧 Email: [ekramullah70@gmail.com](mailto:ekramullah70@gmail.com)
-
-Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
+- 💼 LinkedIn: [linkedin.com/in/ekramullah](https://www.linkedin.com/in/ekramullah/)
+- 🌐 Portfolio: [ekram.is-a.dev](https://ekram.is-a.dev/)
 
 Happy coding! 🚀
