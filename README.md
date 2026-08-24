@@ -2,8 +2,6 @@
 
 Full Stack Developer working on [ThriveDesk](https://www.thrivedesk.com/) at [ThemeXpert](https://www.themexpert.com/) — a SaaS customer support platform.
 
-I work mostly in Angular (Signals, RxJS), React/Next.js, and Node, with a focus on clean architecture, reusable components, and test-driven development.
-
 🌐 [Portfolio](https://ekram.is-a.dev/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ekramullah/) &nbsp;·&nbsp; 📧 [ekramullah70@gmail.com](mailto:ekramullah70@gmail.com)
 
 ## Skills
